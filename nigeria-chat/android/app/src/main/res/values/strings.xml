@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nigeria Chat</string>
+    <string name="title_activity_main">Nigeria Chat</string>
+    <string name="package_name">com.aistudio.nigeriachat.elcafe</string>
+    <string name="custom_url_scheme">com.aistudio.nigeriachat.elcafe</string>
+</resources>

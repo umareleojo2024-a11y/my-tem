@@ -1,0 +1,59 @@
+:root {
+  --primary: #008751;
+  --primary-hover: #006c40;
+  --primary-light: #e6f4ea;
+  --primary-gradient: linear-gradient(135deg, #008751 0%, #00a86b 100%);
+  --secondary: #ffb703;
+  --secondary-hover: #fb8500;
+  
+  --bg-main: #f0f2f5;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #ffffff;
+  --bg-bubble-self: #008751;
+  --bg-bubble-other: #f0f2f5;
+  --text-bubble-self: #ffffff;
+  --text-bubble-other: #1c1e21;
+
+  --text-primary: #0f1419;
+  --text-secondary: #536471;
+  --text-muted: #8b98a5;
+  
+  --border-light: #e1e8ed;
+  --border-subtle: #f0f3f5;
+  --divider: #ebeef0;
+  
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  --sidebar-width: 260px;
+  --navbar-height: 60px;
+  --bottom-nav-height: 64px;
+}
+
+[data-theme="dark"] {
+  --bg-main: #0b0e11;
+  --bg-surface: #15191e;
+  --bg-surface-elevated: #1f242b;
+  --bg-bubble-self: #008751;
+  --bg-bubble-other: #22272e;
+  --text-bubble-self: #ffffff;
+  --text-bubble-other: #e6edf3;
+
+  --text-primary: #f0f6fc;
+  --text-secondary: #8b949e;
+  --text-muted: #6e7681;
+
+  --border-light: #30363d;
+  --border-subtle: #21262d;
+  --divider: #21262d;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 28px rgba(0, 0, 0, 0.5);
+}

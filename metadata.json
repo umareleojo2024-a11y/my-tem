@@ -1,0 +1,6 @@
+{
+  "name": "Nigeria Chat",
+  "description": "Nigeria Chat by Eleojocafe - Full-Stack Social & Messaging Platform with real-time chat, multimedia feeds, and community groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

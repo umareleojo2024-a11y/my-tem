@@ -1,0 +1,27 @@
+# Node & Build artifacts
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Android / Gradle artifacts
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
